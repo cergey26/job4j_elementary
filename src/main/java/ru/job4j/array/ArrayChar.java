@@ -13,13 +13,3 @@ public class ArrayChar {
         return result;
     }
 }
-   /* boolean result = true;
-        for (int i = 0; i < pref.length; i++) {
-        if (pref[i] != world[i]) {
-        result = false;
-        break;
-        }
-        }
-        return result;
-        }
-        }*/
